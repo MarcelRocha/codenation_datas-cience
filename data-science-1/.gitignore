@@ -1,0 +1,9 @@
+.env
+node_modules
+venv
+env
+.idea
+.ipynb_checkpoints
+.exe
+.pytest_cache
+__pycache__
