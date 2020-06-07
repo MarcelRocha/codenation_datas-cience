@@ -1,0 +1,33 @@
+Resultados:
+
+Tratamento:
+
+*Top 3 features mais importantes.
+*remoção dos valores NaN com dropna()
+
+Modelo de Regressão:
+
+*Regressão linear (x_train predicted): r2 = 0.901, mse = 5179.9199
+*Regressão linear (X_test predicted): codenation = 92.66
+
+###############
+Tratamento:
+
+*Top 3 features mais importantes.
+*remoção dos valores NaN com dropna()
+
+Modelo de Regressão:
+
+*Random Forest Regressor (x_train predicted, n_estimators=100): r2 = 0.988, mse = 632.1404
+*Random Forest Regressor (X_test predicted, n_estimators=100): codenation = 93.37
+
+################
+Tratamento:
+
+*Top 3 features mais importantes.
+*remoção dos valores NaN com dropna()
+
+Modelo de Regressão:
+
+*Decision Tree Regressor (x_train predicted): r2 = 1, mse = 0 problema de overfitting
+*Decision Tree Regressor (X_test predicted): codenation = 91.09
